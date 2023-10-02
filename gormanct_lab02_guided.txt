@@ -1,0 +1,10 @@
+Charlie Gorman - we walked through this lab as a class. Instead of editing 
+the text file from the desktop I was able to use VIM commands to edit and 
+copy the file directly from the terminal. 
+syntax on 
+set ruler
+set autoindent
+set number
+set ignorecase
+color elflord
+
